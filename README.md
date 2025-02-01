@@ -1,3 +1,3 @@
 # ReCosmos
 
-A procedural solar system destruction game
+A procedural solar system destruction web game
